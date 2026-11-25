@@ -2,7 +2,7 @@
 
 # Elster Lee
 
-I build native iPhone apps. I study mechanical engineering at Xi’an Jiaotong University.
+I study mechanical engineering at Xi’an Jiaotong University.
 
 ## Featured projects
 
